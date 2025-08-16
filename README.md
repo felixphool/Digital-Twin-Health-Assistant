@@ -64,11 +64,11 @@ Think of it as having a **24/7 medical consultant** in your pocket that never ge
 
 ## 🚀 Demo
 
-> **🎥 [Watch the Demo Video Here](https://youtu.be/d62XwF-djHQ)** 
+> **🎥 [Watch the Demo Video Here]([https://youtu.be/d62XwF-djHQ](https://youtu.be/d62XwF-bjHQ))** 
 
 *See the Digital Twin Health Assistant in action - from uploading medical reports to getting AI-powered health insights!*
 
-[![Demo Video](https://img.shields.io/badge/🎬-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/d62XwF-djHQ)
+[![Demo Video](https://img.shields.io/badge/🎬-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)]([https://youtu.be/d62XwF-djHQ](https://youtu.be/d62XwF-bjHQ))
 
 ---
 
