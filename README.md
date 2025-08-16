@@ -64,9 +64,11 @@ Think of it as having a **24/7 medical consultant** in your pocket that never ge
 
 ## 🚀 Demo
 
-> **🎥 [Watch the Demo Video Here]()** *(Coming Soon!)*
+> **🎥 [Watch the Demo Video Here](https://youtu.be/d62XwF-djHQ)** 
 
 *See the Digital Twin Health Assistant in action - from uploading medical reports to getting AI-powered health insights!*
+
+[![Demo Video](https://img.shields.io/badge/🎬-Watch%20Demo%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/d62XwF-djHQ)
 
 ---
 
@@ -105,6 +107,11 @@ Before you dive in, make sure you have these installed:
 
 *That's it! We handle the rest for you.*
 
+> **💡 New to coding?** Don't worry! Check out our **[detailed setup guide](SETUP_GUIDE.md)** for step-by-step instructions with troubleshooting tips.
+
+---
+
+*That's it! We handle the rest for you.*
 ---
 
 ## 🚀 Quick Start
@@ -148,7 +155,6 @@ npm run dev
 ### 4. **Open Your Browser**
 Navigate to `http://localhost:5173` and start exploring!
 
-New to coding? A more nuanced and detailed guide can be found at here
 ---
 
 ## 🔧 Detailed Installation
