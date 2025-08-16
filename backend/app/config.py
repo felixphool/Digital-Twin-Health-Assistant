@@ -19,7 +19,7 @@ class Settings(BaseSettings):
     ]
 
     # Google Gemini
-    google_api_key: str = "AIzaSyBxy9M7RIu96fPDQ0_xF807u0EGQTW2dF0"  # Add your new API key here
+    google_api_key: str = "" # Add your new API key here
     gemini_model: str = "models/gemini-1.5-flash"  # Higher quota limits
     gemini_temperature: float = 0.2
 
