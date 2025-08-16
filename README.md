@@ -148,6 +148,7 @@ npm run dev
 ### 4. **Open Your Browser**
 Navigate to `http://localhost:5173` and start exploring!
 
+New to coding? A more nuanced and detailed guide can be found at here
 ---
 
 ## 🔧 Detailed Installation
