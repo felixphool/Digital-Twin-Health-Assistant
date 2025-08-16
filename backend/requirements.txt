@@ -1,0 +1,45 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# LLMs / Agents
+langchain
+langgraph
+langchain-google-genai
+agno
+
+# Optional: If using LangChain community integrations
+langchain-community
+google-generativeai
+
+# Web and parsing
+httpx
+beautifulsoup4
+duckduckgo-search
+readability-lxml
+trafilatura
+
+# PDF / OCR
+pymupdf
+pillow
+pytesseract
+
+# Data / DB
+sqlmodel
+sqlalchemy
+pandas
+numpy
+
+# Utils
+python-dotenv
+orjson
+requests
+
+# Security (optional, for malware scanning)
+clamd
+python-magic
+
+# TTS (optional, for audio responses)
+gTTS
